@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  height: 40px;
+  color: brown;
+  background-color: burlywood;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+main {
+  background-color: aquamarine;
+}
+
+img {
+  width: 200px;
+  height: 150px;
+  padding: 20px;
+}
+
+footer {
+  height: 50px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(235, 150, 150);
+  color: white;
+  text-align: center;
+}
+
+a{
+    margin: 10px;
+}
